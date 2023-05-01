@@ -61,7 +61,7 @@ async def start(b, m):
             reply_markup=InlineKeyboardMarkup(
                 [
                     [InlineKeyboardButton("⚡ 𝚄𝙿𝙳𝙰𝚃𝙴𝚂 ⚡", url="https://t.me/Sunrises_Bot_discussion_Group"), InlineKeyboardButton("⚡ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 ⚡", url="https://t.me/Sunrises_Bot_discussion_Group")],
-                    [InlineKeyboardButton("📺 MAIN CHANNEL 📺", url="https://t.me/sunriseseditsoffical6"), InlineKeyboardButton("💎 𝙾𝚃𝚃 𝙼𝙾𝚅𝙸𝙴𝚂 💎", url="https://t.me/MoviesNowOTT2")],
+                    [InlineKeyboardButton("📺 MAIN CHANNEL 📺", url="https://t.me/sunriseseditsoffical6"), InlineKeyboardButton("💎 𝙾𝚃𝚃 𝙼𝙾𝚅𝙸𝙴𝚂 💎", url="https://t.me/sunriseseditsoffical6")],
                     [InlineKeyboardButton("🎞️ 𝙼𝙾𝚅𝙸𝙴 𝙱𝙾𝚃 🎞️", url="https://t.me/TG_Sunrises24_Files_Bot")]
                 ]
             ),
