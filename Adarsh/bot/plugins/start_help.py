@@ -225,14 +225,14 @@ async def about_handler(bot, message):
                 disable_web_page_preview=True)
             return
     await message.reply_photo(
-            photo="https://te.legra.ph/file/8dfe7256883cbc0190478.jpg",
+            photo="https://graph.org/file/0cbd309fcde24da85252c.jpg",
             caption="""<b>sᴏᴍᴇ ʜɪᴅᴅᴇɴ ᴅᴇᴛᴀɪʟs😜</b>
 
 <b>╭━━━━━━━〔ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ〕</b>
 ┃
-┣⪼<b>ʙᴏᴛ ɴᴀᴍᴇ : <a href='https://t.me/kwicbotupdates'>𝗞𝗪𝗜𝗖 𝗛𝗜𝗚𝗛 𝗦𝗣𝗘𝗘𝗗 𝗕𝗢𝗧</a></b>
-┣⪼<b>ᴜᴘᴅᴀᴛᴇᴢ : <a href='https://t.me/kwicbotupdates'>𝗞𝗪𝗜𝗖𝗕𝗢𝗧 𝗨𝗣𝗗𝗔𝗧𝗘𝗦</a></b>
-┣⪼<b>sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/kwic2002'>𝗞𝗪𝗜𝗖</a></b>
+┣⪼<b>ʙᴏᴛ ɴᴀᴍᴇ : <a href='http://t.me/FileToLink24Bot TO LINK BOT'>FILE</a></b>
+┣⪼<b>ᴜᴘᴅᴀᴛᴇᴢ : <a href='https://t.me/Sunrises_Bot_discussion_Group'>𝗨𝗣𝗗𝗔𝗧𝗘𝗦</a></b>
+┣⪼<b>sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/Sunrises_Bot_discussion_Group'>𝗨𝗣𝗗𝗔𝗧𝗘𝗦</a></b>
 ┣⪼<b>sᴇʀᴠᴇʀ : ʜᴇʀᴜᴋᴏ</b>
 ┣⪼<b>ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ</b>
 ┣⪼<b>ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 3</b>
