@@ -244,8 +244,8 @@ async def about_handler(bot, message):
         
         reply_markup=InlineKeyboardMarkup(
             [
-                [InlineKeyboardButton("⚡ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 ⚡", url="https://t.me/kwicbotupdates"), InlineKeyboardButton("📺 24/7 𝙼𝙾𝚅𝙸𝙴𝚂 📺", url="https://t.me/sunriseseditsoffical6")],
-                [InlineKeyboardButton("💌 𝙼𝙾𝚅𝙸𝙴𝙱𝙾𝚃 💌 ", url="https://t.me/KWICVER2bot")]
+                [InlineKeyboardButton("⚡ 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 ⚡", url="https://t.me/Sunrises_Bot_discussion_Group"), InlineKeyboardButton("📺 MAIN CHANNEL 📺", url="https://t.me/sunriseseditsoffical6")],
+                [InlineKeyboardButton("🎞️ 𝙼𝙾𝚅𝙸𝙴𝙱𝙾𝚃 🎞️", url="https://t.me/TG_Sunrises24_Files_Bot")]
             ]
         )
     )
