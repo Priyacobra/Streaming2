@@ -230,7 +230,7 @@ async def about_handler(bot, message):
 
 <b>╭━━━━━━━〔ғɪʟᴇ ᴛᴏ ʟɪɴᴋ ʙᴏᴛ〕</b>
 ┃
-┣⪼<b>ʙᴏᴛ ɴᴀᴍᴇ : <a href='http://t.me/FileToLink24Bot TO LINK BOT'>FILE</a></b>
+┣⪼<b>ʙᴏᴛ ɴᴀᴍᴇ : <a href='http://t.me/FileToLink24Bot'>FILE TO LINK BOT</a></b>
 ┣⪼<b>ᴜᴘᴅᴀᴛᴇᴢ : <a href='https://t.me/Sunrises_Bot_discussion_Group'>𝗨𝗣𝗗𝗔𝗧𝗘𝗦</a></b>
 ┣⪼<b>sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/Sunrises_Bot_discussion_Group'>𝗨𝗣𝗗𝗔𝗧𝗘𝗦</a></b>
 ┣⪼<b>sᴇʀᴠᴇʀ : ʜᴇʀᴜᴋᴏ</b>
