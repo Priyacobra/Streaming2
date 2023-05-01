@@ -232,8 +232,8 @@ async def about_handler(bot, message):
 ┃
 ┣⪼<b>ʙᴏᴛ ɴᴀᴍᴇ : <a href='http://t.me/FileToLink24Bot'>FILE TO LINK BOT</a></b>
 ┣⪼<b>ᴜᴘᴅᴀᴛᴇᴢ : <a href='https://t.me/Sunrises_Bot_discussion_Group'>𝗨𝗣𝗗𝗔𝗧𝗘𝗦</a></b>
-┣⪼<b>sᴜᴘᴘᴏʀᴛ : <a href='https://t.me/Sunrises_Bot_discussion_Group'>𝗨𝗣𝗗𝗔𝗧𝗘𝗦</a></b>
-┣⪼<b>sᴇʀᴠᴇʀ : ʜᴇʀᴜᴋᴏ</b>
+┣⪼<b>MAIN CHANNEL : <a href='https://t.me/sunriseseditsoffical6'>SUNRISESEDITSOFFICAL6</a></b>
+┣⪼<b>sᴇʀᴠᴇʀ : RENDER</b>
 ┣⪼<b>ʟɪʙʀᴀʀʏ : ᴘʏʀᴏɢʀᴀᴍ</b>
 ┣⪼<b>ʟᴀɴɢᴜᴀɢᴇ: ᴘʏᴛʜᴏɴ 3</b>
 
