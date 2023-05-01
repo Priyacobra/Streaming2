@@ -10,7 +10,7 @@
     <br />
   </p>
   <p align="center">
-  <a href="https://youtube.com/@kwicbotupdates">
+  <a href="https://youtube.com/@es">
         <img src="https://img.shields.io/badge/𝐒𝐔𝐁𝐒𝐂𝐑𝐈𝐁𝐄-red?logo=youtube" width="200">
   </p>
 <hr>
